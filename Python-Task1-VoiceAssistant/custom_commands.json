@@ -1,0 +1,6 @@
+{
+  "hello assistant": "Hi! This is a custom response.",
+  "open project site": {
+    "open": "https://example.com"
+  }
+}
