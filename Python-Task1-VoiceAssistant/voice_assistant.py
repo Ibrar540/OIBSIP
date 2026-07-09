@@ -1,10 +1,4 @@
-﻿"""
-Nova AI Voice Assistant — ChatGPT-style Interface
-Left panel: session list with rename/delete (3-dot menu per session)
-Right panel: chat area + professional input bar with mic button
-"""
-
-import tkinter as tk
+﻿import tkinter as tk
 from tkinter import messagebox, simpledialog
 import threading
 import datetime
@@ -18,7 +12,7 @@ from commands import CommandProcessor
 from utils import speak, listen, initialize_engine, log_message
 
 # ─────────────────────────────────────────────
-# Colour palette (ChatGPT dark-mode inspired)
+# Colour palette
 # ─────────────────────────────────────────────
 C = {
     "sidebar":       "#171717",   # left panel bg
