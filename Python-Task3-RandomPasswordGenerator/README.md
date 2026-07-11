@@ -154,24 +154,8 @@ python password_generator.py
 
 #  Application Preview
 
-Add screenshots here.
-
-Example:
-
-```
-screenshots/
-
-Home Screen
-
-Generated Password
-
-Password History
-
-Strength Indicator
-```
-
----
-
+![alt text](image.png), ![alt text](image-1.png)
+![alt text](image-2.png), ![alt text](image-3.png)
 # Security Highlights
 
 This application follows several password security best practices:
