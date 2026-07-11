@@ -22,7 +22,7 @@ Description  : Command Dispatcher — the brain of the assistant.
                Gemini is NEVER called for actions that Python can
                perform locally (time, date, web search, open sites,
                weather, reminders, Wikipedia, email, etc.).
-Author       : <Your Name Here>
+Author       : Ibrar Ahmad
 =========================================================
 """
 
